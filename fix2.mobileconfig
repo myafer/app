@@ -538,15 +538,15 @@
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>http://www.baidu.com</string>
+			<string>https://www.qdai.com.cn/</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>riririri</string>
+	<string>口贷网</string>
 	<key>PayloadDisplayName</key>
-	<string>riririi</string>
+	<string>口贷网网页链接</string>
 	<key>PayloadIdentifier</key>
-	<string>com.tongbu.tui.fix</string>
+	<string>com.sss</string>
 	<key>PayloadOrganization</key>
 	<string>riririri</string>
 	<key>PayloadRemovalDisallowed</key>
